@@ -1,6 +1,6 @@
 # lytics-smm-demo
 
-A Python package for interacting with the [Lytics.lol](https://lyticss.lol) SMM API.
+A Python package for interacting with the [Lytics.lol](https://lytics.lol) SMM API.
 
 ## Installation
 
